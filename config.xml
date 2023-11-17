@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>kl_whistleblower</name>
+	<displayName><![CDATA[Email Whistleblower]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[The \"Email Whistleblower\" module is a powerful tool designed for PrestaShop stores to streamline the verification of critical functionalities, such as payment and carrier availability in the checkout process. It allows you to maintain complete control over these essential aspects of your online store.]]></description>
+	<author><![CDATA[Klorel]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>

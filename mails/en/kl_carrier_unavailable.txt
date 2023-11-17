@@ -1,0 +1,13 @@
+[{shop_name}]({shop_url})
+
+Important :
+
+{message}
+
+Details context :
+
+- Cart ID : {cart_id}
+- Client ID : {customer_id}
+- Delivery address ID : {delivery_address_id}
+- Invoice address ID : {invoice_address_id}
+- Currency ID : {currency_id}
